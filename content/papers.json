@@ -1,0 +1,140 @@
+{
+  "thesis": {
+    "title": "Achieving reliable control: robustness and stability in nonlinear systems via DNN-based feedback design",
+    "authors": "Samuele Zoboli",
+    "venue": "Université Claude Bernard Lyon 1",
+    "year": "2023",
+    "url_pdf": "",
+    "url_code": "",
+    "url_dataset": "",
+    "url_poster": "",
+    "url_project": "",
+    "url_source": "",
+    "url_video": "",
+    "tags": [
+      "thesis"
+    ]
+  },
+  "locallqr": {
+    "title": "Reinforcement learning policies with local LQR guarantees for nonlinear discrete-time systems",
+    "authors": "Samuele Zoboli, Vincent Andrieu, Daniele Astolfi, Giacomo Casadei, Jilles S. Dibangoye, Madiha Nadri",
+    "venue": "IEEE Conference in Decision and Control (CDC)",
+    "year": "2021",
+    "url_pdf": "https://ieeexplore.ieee.org/document/9683721",
+    "url_code": "",
+    "url_dataset": "",
+    "url_poster": "",
+    "url_project": "",
+    "url_source": "",
+    "url_video": "",
+    "tags": [
+      "conference",
+      "control+ai"
+    ]
+  },
+  "outputregulation": {
+    "title": "Deep Learning-based Output Tracking via Regulation and Contraction Theory",
+    "authors": "Samuele Zoboli, Steeven Janny, Mattia Giaccagli",
+    "venue": "IFAC World Congress",
+    "year": "2023",
+    "url_pdf": "https://hal.science/hal-03912988/",
+    "url_code": "https://github.com/SteevenJanny/OutputTracking_contraction",
+    "url_dataset": "",
+    "url_poster": "",
+    "url_project": "",
+    "url_source": "",
+    "url_video": "",
+    "tags": [
+      "control+ai",
+      "conference"
+    ]
+  },
+  "totalstability": {
+    "title": "Total stability of equilibria  motivates integral action in discrete-time nonlinear systems",
+    "authors": "Samuele Zoboli, Daniele Astolfi, Vincent Andrieu",
+    "venue": "Automatica",
+    "year": "2023",
+    "url_pdf": "https://www.sciencedirect.com/science/article/abs/pii/S000510982300314X",
+    "url_code": "",
+    "url_dataset": "",
+    "url_poster": "",
+    "url_project": "",
+    "url_source": "",
+    "url_video": "",
+    "tags": [
+      "control",
+      "journal"
+    ]
+  },
+  "kcontraction": {
+    "title": "LMI conditions for k-contraction analysis: a step towards design",
+    "authors": "Samuele Zoboli, Andreu Cecilia, Ulysse Serres, Daniele Astolfi, Vincent Andrieu",
+    "venue": "IEEE Conference in Decision and Control (CDC)",
+    "year": "2023",
+    "url_pdf": "",
+    "url_code": "",
+    "url_dataset": "",
+    "url_poster": "",
+    "url_project": "",
+    "url_source": "",
+    "url_video": "",
+    "tags": [
+      "control",
+      "conference"
+    ]
+  },
+  "tokamak": {
+    "title": "Enhancing deep reinforcement learning with integral action to control tokamak safety factor",
+    "authors": "Andrea Mattioni, Samuele Zoboli, Bojan Mavkov, Daniele Astolfi, Vincent Andrieu, Emmanuel Witrant, Paolo Frasca, Christophe Prieur",
+    "venue": "Fusion Engineering and Design",
+    "year": "2023",
+    "url_pdf": "https://www.sciencedirect.com/science/article/abs/pii/S0920379623005902",
+    "url_code": "",
+    "url_dataset": "",
+    "url_poster": "",
+    "url_project": "",
+    "url_source": "",
+    "url_video": "",
+    "tags": [
+      "control+ai",
+      "journal"
+    ]
+  },
+  "deepcontraction": {
+    "title": "Synchronization in Networks of Nonlinear Systems: Contraction Analysis via Riemannian Metrics  and Deep-Learning for Feedback Estimation",
+    "authors": "Mattia Giaccagli, Samuele Zoboli, Daniele Astolfi, Vincent Andrieu, Giacomo Casadei",
+    "venue": "Submitted to IEEE Transactions on Automatic Control",
+    "year": "2023",
+    "url_pdf": "",
+    "url_code": "https://github.com/SamueleZoboli/Control-learning-multiagent-lorenz.git",
+    "url_dataset": "",
+    "url_poster": "",
+    "url_project": "",
+    "url_source": "",
+    "url_video": "",
+    "tags": [
+      "control",
+      "control+ai",
+      "journal",
+      "submitted"
+    ]
+  },
+  "multiagentdiscrete": {
+    "title": "Incremental stabilization and multi-agent synchronization of discrete-time nonlinear systems",
+    "authors": "Samuele Zoboli, Daniele Astolfi, Vincent Andrieu, Giacomo Casadei, Luca Zaccarian",
+    "venue": "Submitted to IEEE Transactions on Automatic Control",
+    "year": "2023",
+    "url_pdf": "",
+    "url_code": "",
+    "url_dataset": "",
+    "url_poster": "",
+    "url_project": "",
+    "url_source": "",
+    "url_video": "",
+    "tags": [
+      "control",
+      "journal",
+      "submitted"
+    ]
+  }
+}

@@ -41,6 +41,9 @@ function create_buttons(data) {
     if (data["url_video"] !== "") {
         buttons += `<a class="btn btn-outline-primary btn-sm" href="${data["url_video"]}" target="_blank" rel="noopener" style=" margin: 8px 8px 8px 0">Video</a>`
     }
+    if (data["url_hal"] !== "") {
+        buttons += `<a class="btn btn-outline-primary btn-sm" href="${data["url_hal"]}" target="_blank" rel="noopener" style=" margin: 8px 8px 8px 0">HAL</a>`
+    }
     return buttons;
 }
 

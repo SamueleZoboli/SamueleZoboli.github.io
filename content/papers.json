@@ -11,6 +11,7 @@
     "url_project": "",
     "url_source": "",
     "url_video": "",
+    "url_hal": "",
     "tags": [
       "thesis"
     ]
@@ -27,6 +28,7 @@
     "url_project": "",
     "url_source": "",
     "url_video": "",
+    "url_hal": "https://hal.science/hal-03353584v1/document",
     "tags": [
       "conference",
       "control+ai"
@@ -44,6 +46,7 @@
     "url_project": "",
     "url_source": "",
     "url_video": "",
+    "url_hal": "https://hal.science/hal-03912988v2/document",
     "tags": [
       "control+ai",
       "conference"
@@ -61,6 +64,7 @@
     "url_project": "",
     "url_source": "",
     "url_video": "",
+    "url_hal": "",
     "tags": [
       "control",
       "journal"
@@ -78,6 +82,7 @@
     "url_project": "",
     "url_source": "",
     "url_video": "",
+    "url_hal": "",
     "tags": [
       "control",
       "conference"
@@ -95,6 +100,7 @@
     "url_project": "",
     "url_source": "",
     "url_video": "",
+    "url_hal": "https://cnrs.hal.science/hal-04217005v1/document",
     "tags": [
       "control+ai",
       "journal"
@@ -112,6 +118,7 @@
     "url_project": "",
     "url_source": "",
     "url_video": "",
+    "url_hal": "https://hal.science/hal-03801100/document",
     "tags": [
       "control",
       "control+ai",
@@ -131,6 +138,7 @@
     "url_project": "",
     "url_source": "",
     "url_video": "",
+    "url_hal": "",
     "tags": [
       "control",
       "journal",

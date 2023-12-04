@@ -144,5 +144,24 @@
       "journal",
       "submitted"
     ]
+  },
+  "kcontractiondesign": {
+    "title": "Generalized Lyapunov conditions for k-contraction: analysis and feedback design",
+    "authors": "Andreu Cecilia, Samuele Zoboli, Daniele Astolfi, Ulysse Serres, Vincent Andrieu",
+    "venue": "Submitted to IEEE Transactions on Automatic Control",
+    "year": "2023",
+    "url_pdf": "",
+    "url_code": "",
+    "url_dataset": "",
+    "url_poster": "",
+    "url_project": "",
+    "url_source": "",
+    "url_video": "",
+    "url_hal": "https://hal.science/hal-04300588v1/document",
+    "tags": [
+      "control",
+      "journal",
+      "submitted"
+    ]
   }
 }

@@ -138,7 +138,7 @@
     "url_project": "",
     "url_source": "",
     "url_video": "",
-    "url_hal": "",
+    "url_hal": "https://hal.science/hal-04444190v1/document",
     "tags": [
       "control",
       "journal",
@@ -161,6 +161,101 @@
     "tags": [
       "control",
       "journal",
+      "submitted"
+    ]
+  },
+  "neuralidapbc": {
+    "title": "Robust Neural IDA-PBC: passivity-based stabilization under approximations",
+    "authors": "Santiago Sanchez-Escalonilla Plaza, Samuele Zoboli, Bayu Jayawardhana",
+    "venue": "Submitted to Automatica",
+    "year": "2024",
+    "url_pdf": "",
+    "url_code": "",
+    "url_dataset": "",
+    "url_poster": "",
+    "url_project": "",
+    "url_source": "",
+    "url_video": "",
+    "url_hal": "",
+    "tags": [
+      "control+ai",
+      "journal",
+      "submitted"
+    ]
+  },
+  "discretekcontraction": {
+    "title": "Disctete-time k-contraction: the autonomous case",
+    "authors": "Samuele Zoboli, Andreu Cecilia",
+    "venue": "Submitted to 4th IFAC Conference of Modelling, Identification and Control of Nonlinear systems",
+    "year": "2024",
+    "url_pdf": "",
+    "url_code": "",
+    "url_dataset": "",
+    "url_poster": "",
+    "url_project": "",
+    "url_source": "",
+    "url_video": "",
+    "url_hal": "",
+    "tags": [
+      "control",
+      "conference",
+      "submitted"
+    ]
+  },
+  "kcontractionlmi": {
+    "title": "Quadratic abstractions for k-contraction",
+    "authors": "Samuele Zoboli, Andreu Cecilia, Sophie Tarbouriech",
+    "venue": "Submitted to 63rd IEEE Conference on Decision and Control (CDC)",
+    "year": "2024",
+    "url_pdf": "",
+    "url_code": "",
+    "url_dataset": "",
+    "url_poster": "",
+    "url_project": "",
+    "url_source": "",
+    "url_video": "",
+    "url_hal": "",
+    "tags": [
+      "control",
+      "conference",
+      "submitted"
+    ]
+  },
+  "lineardiscreteforwarding": {
+    "title": "Forwarding for discrete-time linear systems: optimality and global stabilization under input saturation",
+    "authors": "Samuele Zoboli, Daniele Astolfi, Mattia Mattioni, John W. Simpson-Porco, Nathan van de Wouw",
+    "venue": "Submitted to 4th IFAC Conference of Modelling, Identification and Control of Nonlinear systems",
+    "year": "2024",
+    "url_pdf": "",
+    "url_code": "",
+    "url_dataset": "",
+    "url_poster": "",
+    "url_project": "",
+    "url_source": "",
+    "url_video": "",
+    "url_hal": "",
+    "tags": [
+      "control",
+      "conference",
+      "submitted"
+    ]
+  },
+  "stabilityrelusystems": {
+    "title": "Stability Analysis of Feedback Systems with ReLU Nonlinearities via Semialgebraic Set Representation",
+    "authors": "Shingo Nishinaka, Rin Saeki, Tsuyoshi Yuno, Yoshio Ebihara, Victor Magron, Dimitri Peaucelle, Samuele Zoboli, Sophie Tarbouriech",
+    "venue": "Submitted to 4th IFAC Conference of Modelling, Identification and Control of Nonlinear systems",
+    "year": "2024",
+    "url_pdf": "",
+    "url_code": "",
+    "url_dataset": "",
+    "url_poster": "",
+    "url_project": "",
+    "url_source": "",
+    "url_video": "",
+    "url_hal": "",
+    "tags": [
+      "control",
+      "conference",
       "submitted"
     ]
   }

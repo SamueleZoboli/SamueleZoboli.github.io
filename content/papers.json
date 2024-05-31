@@ -109,9 +109,9 @@
   "deepcontraction": {
     "title": "Synchronization in Networks of Nonlinear Systems: Contraction Analysis via Riemannian Metrics  and Deep-Learning for Feedback Estimation",
     "authors": "Mattia Giaccagli, Samuele Zoboli, Daniele Astolfi, Vincent Andrieu, Giacomo Casadei",
-    "venue": "Submitted to IEEE Transactions on Automatic Control",
-    "year": "2023",
-    "url_pdf": "",
+    "venue": "Accepted in IEEE Transactions on Automatic Control",
+    "year": "2024",
+    "url_pdf": "https://ieeexplore.ieee.org/document/10541048",
     "url_code": "https://github.com/SamueleZoboli/Control-learning-multiagent-lorenz.git",
     "url_dataset": "",
     "url_poster": "",
@@ -122,8 +122,7 @@
     "tags": [
       "control",
       "control+ai",
-      "journal",
-      "submitted"
+      "journal"
     ]
   },
   "multiagentdiscrete": {

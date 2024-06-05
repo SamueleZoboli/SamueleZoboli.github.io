@@ -185,7 +185,7 @@
   "discretekcontraction": {
     "title": "Disctete-time k-contraction: the autonomous case",
     "authors": "Samuele Zoboli, Andreu Cecilia",
-    "venue": "Submitted to 4th IFAC Conference of Modelling, Identification and Control of Nonlinear systems",
+    "venue": "Accepted in 4th IFAC Conference of Modelling, Identification and Control of Nonlinear systems",
     "year": "2024",
     "url_pdf": "",
     "url_code": "",
@@ -197,8 +197,7 @@
     "url_hal": "",
     "tags": [
       "control",
-      "conference",
-      "submitted"
+      "conference"
     ]
   },
   "kcontractionlmi": {
@@ -223,7 +222,7 @@
   "lineardiscreteforwarding": {
     "title": "Forwarding for discrete-time linear systems: optimality and global stabilization under input saturation",
     "authors": "Samuele Zoboli, Daniele Astolfi, Mattia Mattioni, John W. Simpson-Porco, Nathan van de Wouw",
-    "venue": "Submitted to 4th IFAC Conference of Modelling, Identification and Control of Nonlinear systems",
+    "venue": "Accepted in 4th IFAC Conference of Modelling, Identification and Control of Nonlinear systems",
     "year": "2024",
     "url_pdf": "",
     "url_code": "",
@@ -235,14 +234,13 @@
     "url_hal": "",
     "tags": [
       "control",
-      "conference",
-      "submitted"
+      "conference"
     ]
   },
   "stabilityrelusystems": {
     "title": "Stability Analysis of Feedback Systems with ReLU Nonlinearities via Semialgebraic Set Representation",
     "authors": "Shingo Nishinaka, Rin Saeki, Tsuyoshi Yuno, Yoshio Ebihara, Victor Magron, Dimitri Peaucelle, Samuele Zoboli, Sophie Tarbouriech",
-    "venue": "Submitted to 4th IFAC Conference of Modelling, Identification and Control of Nonlinear systems",
+    "venue": "Accepted in 4th IFAC Conference of Modelling, Identification and Control of Nonlinear systems",
     "year": "2024",
     "url_pdf": "",
     "url_code": "",
@@ -254,8 +252,7 @@
     "url_hal": "http://arxiv.org/pdf/2403.04016",
     "tags": [
       "control",
-      "conference",
-      "submitted"
+      "conference"
     ]
   }
 }

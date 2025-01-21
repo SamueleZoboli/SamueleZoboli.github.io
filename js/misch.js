@@ -160,6 +160,15 @@ function loadPapers(tag = "all") {
     });
 }
 
+function displayLastModified() {
+    const lastModified = new Date(document.lastModified); // Get the last modified date
+    const day = String(lastModified.getDate()).padStart(2, '0'); // Day with leading zero
+    const month = String(lastModified.getMonth() + 1).padStart(2, '0'); // Month (0-based, so add 1)
+    const year = lastModified.getFullYear(); // Full year
+    const formattedDate = `${day}/${month}/${year}`; // Italian date format
+    document.getElementById('last-updated').textContent = `Last updated: ${formattedDate}`;
+}
+
 document.querySelectorAll('.dropdown-item').forEach(function (item) {
     item.addEventListener('click', function () {
         const selectedFilterId = item.getAttribute('id');

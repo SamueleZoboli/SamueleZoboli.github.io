@@ -11,7 +11,7 @@
     "url_project": "",
     "url_source": "",
     "url_video": "",
-    "url_hal": "",
+    "url_hal": "https://theses.hal.science/tel-04631894/file/TH2023ZOBOLISAMUELE.pdf",
     "tags": [
       "thesis"
     ]
@@ -28,7 +28,7 @@
     "url_project": "",
     "url_source": "",
     "url_video": "",
-    "url_hal": "https://hal.science/hal-03353584v1/document",
+    "url_hal": "https://hal.science/hal-03353584/document",
     "tags": [
       "conference",
       "control+ai"
@@ -39,14 +39,14 @@
     "authors": "Samuele Zoboli, Steeven Janny, Mattia Giaccagli",
     "venue": "IFAC World Congress",
     "year": "2023",
-    "url_pdf": "https://hal.science/hal-03912988/",
+    "url_pdf": "https://www.sciencedirect.com/science/article/pii/S2405896323013496",
     "url_code": "https://github.com/SteevenJanny/OutputTracking_contraction",
     "url_dataset": "",
     "url_poster": "",
     "url_project": "",
     "url_source": "",
     "url_video": "",
-    "url_hal": "https://hal.science/hal-03912988v2/document",
+    "url_hal": "https://hal.science/hal-03912988/file/long_version.pdf",
     "tags": [
       "control+ai",
       "conference"
@@ -75,14 +75,14 @@
     "authors": "Samuele Zoboli, Andreu Cecilia, Ulysse Serres, Daniele Astolfi, Vincent Andrieu",
     "venue": "IEEE Conference in Decision and Control (CDC)",
     "year": "2023",
-    "url_pdf": "",
+    "url_pdf": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10383436",
     "url_code": "",
     "url_dataset": "",
     "url_poster": "",
     "url_project": "",
     "url_source": "",
     "url_video": "",
-    "url_hal": "https://hal.science/hal-04304423v1/document",
+    "url_hal": "https://hal.science/hal-04304423/document",
     "tags": [
       "control",
       "conference"
@@ -100,16 +100,16 @@
     "url_project": "",
     "url_source": "",
     "url_video": "",
-    "url_hal": "https://cnrs.hal.science/hal-04217005v1/document",
+    "url_hal": "https://cnrs.hal.science/hal-04217005/document",
     "tags": [
       "control+ai",
       "journal"
     ]
   },
   "deepcontraction": {
-    "title": "Synchronization in Networks of Nonlinear Systems: Contraction Analysis via Riemannian Metrics  and Deep-Learning for Feedback Estimation",
+    "title": "Synchronization in networks of nonlinear systems: contraction analysis via Riemannian metrics  and deep-learning for feedback estimation",
     "authors": "Mattia Giaccagli, Samuele Zoboli, Daniele Astolfi, Vincent Andrieu, Giacomo Casadei",
-    "venue": "Accepted in IEEE Transactions on Automatic Control",
+    "venue": "IEEE Transactions on Automatic Control",
     "year": "2024",
     "url_pdf": "https://ieeexplore.ieee.org/document/10541048",
     "url_code": "https://github.com/SamueleZoboli/Control-learning-multiagent-lorenz.git",
@@ -128,8 +128,8 @@
   "multiagentdiscrete": {
     "title": "Incremental stabilization and multi-agent synchronization of discrete-time nonlinear systems",
     "authors": "Samuele Zoboli, Daniele Astolfi, Vincent Andrieu, Giacomo Casadei, Luca Zaccarian",
-    "venue": "Submitted to IEEE Transactions on Automatic Control",
-    "year": "2023",
+    "venue": "Submitted to Automatica",
+    "year": "2024",
     "url_pdf": "",
     "url_code": "",
     "url_dataset": "",
@@ -137,7 +137,7 @@
     "url_project": "",
     "url_source": "",
     "url_video": "",
-    "url_hal": "https://hal.science/hal-04444190v1/document",
+    "url_hal": "https://hal.science/hal-04444190/document",
     "tags": [
       "control",
       "journal",
@@ -147,7 +147,7 @@
   "kcontractiondesign": {
     "title": "Generalized Lyapunov conditions for k-contraction: analysis and feedback design",
     "authors": "Andreu Cecilia, Samuele Zoboli, Daniele Astolfi, Ulysse Serres, Vincent Andrieu",
-    "venue": "Submitted to IEEE Transactions on Automatic Control",
+    "venue": "Conditionally accepted in IEEE Transactions on Automatic Control",
     "year": "2023",
     "url_pdf": "",
     "url_code": "",
@@ -156,7 +156,7 @@
     "url_project": "",
     "url_source": "",
     "url_video": "",
-    "url_hal": "https://hal.science/hal-04300588v1/document",
+    "url_hal": "https://hal.science/hal-04300588/document",
     "tags": [
       "control",
       "journal",
@@ -175,7 +175,7 @@
     "url_project": "",
     "url_source": "",
     "url_video": "",
-    "url_hal": "",
+    "url_hal": "https://arxiv.org/pdf/2409.16008",
     "tags": [
       "control+ai",
       "journal",
@@ -183,18 +183,18 @@
     ]
   },
   "discretekcontraction": {
-    "title": "Disctete-time k-contraction: the autonomous case",
+    "title": "k-contraction analysis for discrete-time systems",
     "authors": "Samuele Zoboli, Andreu Cecilia",
-    "venue": "Accepted in 4th IFAC Conference of Modelling, Identification and Control of Nonlinear systems",
+    "venue": "4th IFAC Conference of Modelling, Identification and Control of Nonlinear systems (MICNON)",
     "year": "2024",
-    "url_pdf": "",
+    "url_pdf": "https://www.sciencedirect.com/science/article/pii/S2405896324019165",
     "url_code": "",
     "url_dataset": "",
     "url_poster": "",
     "url_project": "",
     "url_source": "",
     "url_video": "",
-    "url_hal": "",
+    "url_hal": "https://hal.science/hal-04643933/document",
     "tags": [
       "control",
       "conference"
@@ -203,7 +203,7 @@
   "kcontractionlmi": {
     "title": "Quadratic abstractions for k-contraction",
     "authors": "Samuele Zoboli, Andreu Cecilia, Sophie Tarbouriech",
-    "venue": "Submitted to 63rd IEEE Conference on Decision and Control (CDC)",
+    "venue": "63rd IEEE Conference on Decision and Control (CDC)",
     "year": "2024",
     "url_pdf": "",
     "url_code": "",
@@ -212,26 +212,25 @@
     "url_project": "",
     "url_source": "",
     "url_video": "",
-    "url_hal": "",
+    "url_hal": "https://hal.science/hal-04619425/document",
     "tags": [
       "control",
-      "conference",
-      "submitted"
+      "conference"
     ]
   },
   "lineardiscreteforwarding": {
     "title": "Forwarding for discrete-time linear systems: optimality and global stabilization under input saturation",
     "authors": "Samuele Zoboli, Daniele Astolfi, Mattia Mattioni, John W. Simpson-Porco, Nathan van de Wouw",
-    "venue": "Accepted in 4th IFAC Conference of Modelling, Identification and Control of Nonlinear systems",
+    "venue": "4th IFAC Conference of Modelling, Identification and Control of Nonlinear systems (MICNON)",
     "year": "2024",
-    "url_pdf": "",
+    "url_pdf": "https://www.sciencedirect.com/science/article/pii/S2405896324019098",
     "url_code": "",
     "url_dataset": "",
     "url_poster": "",
     "url_project": "",
     "url_source": "",
     "url_video": "",
-    "url_hal": "",
+    "url_hal": "https://hal.science/hal-04861660/document",
     "tags": [
       "control",
       "conference"
@@ -239,10 +238,10 @@
   },
   "stabilityrelusystems": {
     "title": "Stability Analysis of Feedback Systems with ReLU Nonlinearities via Semialgebraic Set Representation",
-    "authors": "Shingo Nishinaka, Rin Saeki, Tsuyoshi Yuno, Yoshio Ebihara, Victor Magron, Dimitri Peaucelle, Samuele Zoboli, Sophie Tarbouriech",
-    "venue": "Accepted in 4th IFAC Conference of Modelling, Identification and Control of Nonlinear systems",
+    "authors": "Tsuyoshi Yuno, Shingo Nishinaka, Rin Saeki, Yoshio Ebihara, Victor Magron, Dimitri Peaucelle, Samuele Zoboli, Sophie Tarbouriech",
+    "venue": "4th IFAC Conference of Modelling, Identification and Control of Nonlinear systems (MICNON)",
     "year": "2024",
-    "url_pdf": "",
+    "url_pdf": "https://www.sciencedirect.com/science/article/pii/S2405896324019153",
     "url_code": "",
     "url_dataset": "",
     "url_poster": "",
@@ -253,6 +252,44 @@
     "tags": [
       "control",
       "conference"
+    ]
+  },
+  "mlpetm": {
+    "title": "Layer-wise dynamic event-triggered neural network control for discrete-time nonlinear systems",
+    "authors": "Marco Sterlini, Samuele Zoboli, Sophie Tarbouriech",
+    "venue": "Submitted to  13th IFAC Symposium on Nonlinear Control Systems (NOLCOS)",
+    "year": "2024",
+    "url_pdf": "",
+    "url_code": "",
+    "url_dataset": "",
+    "url_poster": "",
+    "url_project": "",
+    "url_source": "",
+    "url_video": "",
+    "url_hal": "https://ut3-toulouseinp.hal.science/hal-04870932/document",
+    "tags": [
+      "control+ai",
+      "conference",
+      "submitted"
+    ]
+  },
+  "dynamicklmi": {
+    "title": "Dynamic output-feedback design for generalized Lyapunov inequalities",
+    "authors": "Samuele Zoboli, Andreu Cecilia, Sophie Tarbouriech",
+    "venue": "Submitted to Automatica",
+    "year": "2024",
+    "url_pdf": "",
+    "url_code": "",
+    "url_dataset": "",
+    "url_poster": "",
+    "url_project": "",
+    "url_source": "",
+    "url_video": "",
+    "url_hal": "https://hal.science/hal-04738534/document",
+    "tags": [
+      "control",
+      "journal",
+      "submitted"
     ]
   }
 }

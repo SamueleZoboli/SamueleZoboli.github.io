@@ -37,7 +37,7 @@
     <script src="https://cdn.jsdelivr.net/npm/bibtex-parser-js/bibtexParse.min.js"></script>
 
 </head>
-<body>
+<body onload="displayLastModified()">
 <!-- Responsive navbar-->
 <nav class="navbar navbar-expand-lg navbar-dark bg-darkblue sticky-top">
     <div class="container">
@@ -508,12 +508,10 @@
     </div>
     </div>
 </section>
-
-
 <br/>
-<br/>
-<br/>
-<br/>
+<footer>
+    <p id="last-updated"></p>
+</footer>
 <br/>
 <script src="https://d3js.org/d3.v5.min.js"></script>
 <script src="js/misch.js"></script>

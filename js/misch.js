@@ -169,6 +169,12 @@ function displayLastModified() {
     document.getElementById('last-updated').textContent = `Last updated: ${formattedDate}`;
 }
 
+// For student details
+function toggleDetails(id) {
+    const element = document.getElementById(id);
+    element.style.display = element.style.display === 'none' ? 'block' : 'none';
+}
+
 document.querySelectorAll('.dropdown-item').forEach(function (item) {
     item.addEventListener('click', function () {
         const selectedFilterId = item.getAttribute('id');

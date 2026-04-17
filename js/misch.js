@@ -17,11 +17,14 @@ var template = `<div class="row" style="position: relative;width:auto;margin-bot
 
 function create_buttons(data) {
     var buttons = "";
-    if (data["url_pdf"] !== "") {
-        buttons += `<a class="btn btn-outline-primary btn-sm" href="${data["url_pdf"]}" target="_blank" rel="noopener" style=" margin: 8px 8px 8px 0">Paper</a>`
-    } else {
-        //make the pdf button disabled
-        buttons += `<a class="btn btn-outline-primary btn-sm disabled" href="" target="_blank" rel="noopener" style=" margin: 8px 8px 8px 0">Paper</a>`
+    // Hide PDF button if the paper has the "thesis" tag
+    if (!data["tags"].includes("thesis")) {
+        if (data["url_pdf"] !== "") {
+            buttons += `<a class="btn btn-outline-primary btn-sm" href="${data["url_pdf"]}" target="_blank" rel="noopener" style=" margin: 8px 8px 8px 0">Paper</a>`
+        } else {
+            //make the pdf button disabled
+            buttons += `<a class="btn btn-outline-primary btn-sm disabled" href="" target="_blank" rel="noopener" style=" margin: 8px 8px 8px 0">Paper</a>`
+        }
     }
     if (data["url_code"] !== "") {
         buttons += `<a class="btn btn-outline-primary btn-sm" href="${data["url_code"]}" target="_blank" rel="noopener" style=" margin: 8px 8px 8px 0">Code</a>`

@@ -30,7 +30,9 @@
     "url_video": "",
     "url_hal": "https://hal.science/hal-03353584/document",
     "tags": [
-      "conference",
+      "conference"
+    ],
+    "commented_tags": [
       "control+ai"
     ]
   },
@@ -48,8 +50,10 @@
     "url_video": "",
     "url_hal": "https://hal.science/hal-03912988/file/long_version.pdf",
     "tags": [
-      "control+ai",
       "conference"
+    ],
+    "commented_tags": [
+      "control+ai"
     ]
   },
   "totalstability": {
@@ -66,8 +70,10 @@
     "url_video": "",
     "url_hal": "https://hal.science/hal-04179625/document",
     "tags": [
-      "control",
       "journal"
+    ],
+    "commented_tags": [
+      "control"
     ]
   },
   "kcontraction": {
@@ -84,8 +90,10 @@
     "url_video": "",
     "url_hal": "https://hal.science/hal-04304423/document",
     "tags": [
-      "control",
       "conference"
+    ],
+    "commented_tags": [
+      "control"
     ]
   },
   "tokamak": {
@@ -102,8 +110,10 @@
     "url_video": "",
     "url_hal": "https://cnrs.hal.science/hal-04217005/document",
     "tags": [
-      "control+ai",
       "journal"
+    ],
+    "commented_tags": [
+      "control+ai"
     ]
   },
   "deepcontraction": {
@@ -120,17 +130,19 @@
     "url_video": "",
     "url_hal": "https://hal.science/hal-03801100/document",
     "tags": [
-      "control",
-      "control+ai",
       "journal"
+    ],
+    "commented_tags": [
+      "control",
+      "control+ai"
     ]
   },
   "multiagentdiscrete": {
     "title": "Incremental stabilization and multi-agent synchronization of discrete-time nonlinear systems",
     "authors": "Samuele Zoboli, Daniele Astolfi, Vincent Andrieu, Giacomo Casadei, Luca Zaccarian",
-    "venue": "Submitted to Automatica",
-    "year": "2024",
-    "url_pdf": "",
+    "venue": "Automatica",
+    "year": "2026",
+    "url_pdf": "https://www.sciencedirect.com/science/article/pii/S0005109826000166",
     "url_code": "",
     "url_dataset": "",
     "url_poster": "",
@@ -139,17 +151,18 @@
     "url_video": "",
     "url_hal": "https://hal.science/hal-04444190/document",
     "tags": [
-      "control",
-      "journal",
-      "submitted"
+      "journal"
+    ],
+    "commented_tags": [
+      "control"
     ]
   },
   "kcontractiondesign": {
     "title": "Generalized Lyapunov conditions for k-contraction: analysis and feedback design",
     "authors": "Andreu Cecilia, Samuele Zoboli, Daniele Astolfi, Ulysse Serres, Vincent Andrieu",
-    "venue": "Conditionally accepted in IEEE Transactions on Automatic Control",
-    "year": "2023",
-    "url_pdf": "",
+    "venue": "IEEE Transactions on Automatic Control",
+    "year": "2025",
+    "url_pdf": "https://ieeexplore.ieee.org/abstract/document/11146745",
     "url_code": "",
     "url_dataset": "",
     "url_poster": "",
@@ -158,9 +171,10 @@
     "url_video": "",
     "url_hal": "https://hal.science/hal-04300588/document",
     "tags": [
-      "control",
-      "journal",
-      "submitted"
+      "journal"
+    ],
+    "commented_tags": [
+      "control"
     ]
   },
   "neuralidapbc": {
@@ -177,9 +191,11 @@
     "url_video": "",
     "url_hal": "https://arxiv.org/pdf/2409.16008",
     "tags": [
-      "control+ai",
       "journal",
       "submitted"
+    ],
+    "commented_tags": [
+      "control+ai"
     ]
   },
   "discretekcontraction": {
@@ -196,8 +212,10 @@
     "url_video": "",
     "url_hal": "https://hal.science/hal-04643933/document",
     "tags": [
-      "control",
       "conference"
+    ],
+    "commented_tags": [
+      "control"
     ]
   },
   "kcontractionlmi": {
@@ -205,7 +223,7 @@
     "authors": "Samuele Zoboli, Andreu Cecilia, Sophie Tarbouriech",
     "venue": "63rd IEEE Conference on Decision and Control (CDC)",
     "year": "2024",
-    "url_pdf": "",
+    "url_pdf": "https://ieeexplore.ieee.org/abstract/document/10886370",
     "url_code": "",
     "url_dataset": "",
     "url_poster": "",
@@ -214,8 +232,10 @@
     "url_video": "",
     "url_hal": "https://hal.science/hal-04619425/document",
     "tags": [
-      "control",
       "conference"
+    ],
+    "commented_tags": [
+      "control"
     ]
   },
   "lineardiscreteforwarding": {
@@ -232,8 +252,10 @@
     "url_video": "",
     "url_hal": "https://hal.science/hal-04861660/document",
     "tags": [
-      "control",
       "conference"
+    ],
+    "commented_tags": [
+      "control"
     ]
   },
   "stabilityrelusystems": {
@@ -250,16 +272,18 @@
     "url_video": "",
     "url_hal": "http://arxiv.org/pdf/2403.04016",
     "tags": [
-      "control",
       "conference"
+    ],
+    "commented_tags": [
+      "control"
     ]
   },
   "mlpetm": {
     "title": "Layer-wise dynamic event-triggered neural network control for discrete-time nonlinear systems",
     "authors": "Marco Sterlini, Samuele Zoboli, Sophie Tarbouriech",
-    "venue": "Submitted to  13th IFAC Symposium on Nonlinear Control Systems (NOLCOS)",
-    "year": "2024",
-    "url_pdf": "",
+    "venue": "13th IFAC Symposium on Nonlinear Control Systems (NOLCOS)",
+    "year": "2025",
+    "url_pdf": "https://www.sciencedirect.com/science/article/pii/S2405896325016611",
     "url_code": "https://github.com/msterlini/Layer-wise_ETM_MLP",
     "url_dataset": "",
     "url_poster": "",
@@ -268,9 +292,10 @@
     "url_video": "",
     "url_hal": "https://ut3-toulouseinp.hal.science/hal-04870932/document",
     "tags": [
-      "control+ai",
-      "conference",
-      "submitted"
+      "conference"
+    ],
+    "commented_tags": [
+      "control+ai"
     ]
   },
   "dynamicklmi": {
@@ -287,9 +312,11 @@
     "url_video": "",
     "url_hal": "https://hal.science/hal-04738534/document",
     "tags": [
-      "control",
       "journal",
       "submitted"
+    ],
+    "commented_tags": [
+      "control"
     ]
   }
 }

@@ -1,16 +1,13 @@
 // read "content/papers/json" which contains a list of directories
 
 
-var template = `<div class="row" style="position: relative;width:auto;margin-bottom: 10px">
-<div class="col-md-9 col-12">
-    <p style="font-weight: 700;font-size: 18px;margin-bottom: 0">{paper_title}</p>
-    <p style="font-size: small"> {paper_venue} - {date} <br/> <span class="text-muted"> {paper_authors}</span></p>
-    <div class="btn-links" style="margin-top: -20px">
+var template = `<div class="row paper-item" style="position: relative; width: auto; margin-bottom: 8px; padding-bottom: 6px; border-bottom: 1px solid rgba(0, 0, 0, 0.05)">
+<div class="col-12">
+    <p style="font-weight: 700; font-size: 18px; margin-bottom: 4px; line-height: 1.3">{paper_title}</p>
+    <p style="font-size: small; margin-bottom: 6px; line-height: 1.4"> {paper_venue} - {date} <br/> <span class="text-muted"> {paper_authors}</span></p>
+    <div class="btn-links" style="margin-top: 0; display: flex; flex-wrap: wrap; gap: 6px 10px">
         {buttons}
     </div>
-</div>
-<div class="col-3 d-none d-md-block">
-    <img src="/content/{paper_folder}/featured.png" style="width: 100%; max-height: 13vh" alt="{paper_title}" loading="lazy">   
 </div>
 </div>`
 

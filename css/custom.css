@@ -12,6 +12,19 @@ ul.network-icon {
     margin-top: 30px
 }
 
+#papers_items .paper-item {
+    margin-bottom: 8px;
+}
+
+#papers_items .btn-links {
+    margin-top: 0;
+}
+
+#papers_items .btn-links .btn {
+    margin: 4px 8px 4px 0 !important;
+    padding: .2rem .55rem;
+}
+
 .network-icon li {
     margin-right: 10px
 }

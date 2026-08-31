@@ -19,7 +19,7 @@
   "locallqr": {
     "title": "Reinforcement learning policies with local LQR guarantees for nonlinear discrete-time systems",
     "authors": "Samuele Zoboli, Vincent Andrieu, Daniele Astolfi, Giacomo Casadei, Jilles S. Dibangoye, Madiha Nadri",
-    "venue": "IEEE Conference in Decision and Control (CDC)",
+    "venue": "60th IEEE Conference in Decision and Control (CDC)",
     "year": "2021",
     "url_pdf": "https://ieeexplore.ieee.org/document/9683721",
     "url_code": "https://github.com/SamueleZoboli/Locally-Asymptotically-Stable-DRL",
@@ -79,7 +79,7 @@
   "kcontraction": {
     "title": "LMI conditions for k-contraction analysis: a step towards design",
     "authors": "Samuele Zoboli, Andreu Cecilia, Ulysse Serres, Daniele Astolfi, Vincent Andrieu",
-    "venue": "IEEE Conference in Decision and Control (CDC)",
+    "venue": "62nd IEEE Conference in Decision and Control (CDC)",
     "year": "2023",
     "url_pdf": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10383436",
     "url_code": "",
@@ -180,9 +180,9 @@
   "neuralidapbc": {
     "title": "Robust Neural IDA-PBC: passivity-based stabilization under approximations",
     "authors": "Santiago Sanchez-Escalonilla Plaza, Samuele Zoboli, Bayu Jayawardhana",
-    "venue": "Submitted to Automatica",
-    "year": "2024",
-    "url_pdf": "",
+    "venue": "Automatica",
+    "year": "2026",
+    "url_pdf": "https://www.sciencedirect.com/science/article/pii/S0005109826004097",
     "url_code": "",
     "url_dataset": "",
     "url_poster": "",
@@ -191,8 +191,7 @@
     "url_video": "",
     "url_hal": "https://arxiv.org/pdf/2409.16008",
     "tags": [
-      "journal",
-      "submitted"
+      "journal"
     ],
     "commented_tags": [
       "control+ai"
@@ -298,11 +297,31 @@
       "control+ai"
     ]
   },
+  "grugales": {
+    "title": "Gated recurrent units: From local to global stability properties",
+    "authors": "Pierre Franck, Samuele Zoboli, Romain Postoyan, Sophie Tarbouriech",
+    "venue": "European Journal of Control",
+    "year": "2026",
+    "url_pdf": "https://www.sciencedirect.com/science/article/pii/S0947358026001366",
+    "url_code": "",
+    "url_dataset": "",
+    "url_poster": "",
+    "url_project": "",
+    "url_source": "",
+    "url_video": "",
+    "url_hal": "https://hal.science/hal-05574500/document",
+    "tags": [
+      "journal"
+    ],
+    "commented_tags": [
+      "control+ai"
+    ]
+  },
   "dynamicklmi": {
     "title": "Dynamic output-feedback design for generalized Lyapunov inequalities",
     "authors": "Samuele Zoboli, Andreu Cecilia, Sophie Tarbouriech",
-    "venue": "Submitted to Automatica",
-    "year": "2024",
+    "venue": "Accepted on Automatica",
+    "year": "2026",
     "url_pdf": "",
     "url_code": "",
     "url_dataset": "",
@@ -317,6 +336,27 @@
     ],
     "commented_tags": [
       "control"
+    ]
+  },
+  "generalgru": {
+    "title": "Stability properties of generalized Gated Recurrent Units",
+    "authors": "Pierre Franck, Samuele Zoboli, Romain Postoyan, Sophie Tarbouriech",
+    "venue": "Submitted to SIAM Journal on Control and Optimization",
+    "year": "2026",
+    "url_pdf": "",
+    "url_code": "",
+    "url_dataset": "",
+    "url_poster": "",
+    "url_project": "",
+    "url_source": "",
+    "url_video": "",
+    "url_hal": "https://hal.science/hal-05636666/document",
+    "tags": [
+      "journal",
+      "submitted"
+    ],
+    "commented_tags": [
+      "control+ai"
     ]
   }
 }
